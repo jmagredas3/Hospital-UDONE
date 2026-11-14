@@ -23,7 +23,7 @@ PERMISOS = {
     },
     "Médico": {
         "admision:ver", "admision:escribir", "triage:ver", "historia:ver", "historia:escribir",
-        "ordenes:ver", "ordenes:escribir", "fhir:ver", "reportes:ver",
+        "ordenes:ver", "ordenes:escribir", "fhir:ver", "reportes:ver", "triage:escribir",
     },
     "Enfermera(o)": {
         "admision:ver", "triage:ver", "triage:escribir", "historia:ver", "ordenes:ver",
